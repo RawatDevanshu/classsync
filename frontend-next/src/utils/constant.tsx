@@ -1,4 +1,5 @@
-export const localhost = "https://class-sync-azure.azurewebsites.net";
+// export const localhost = "https://class-sync-azure.azurewebsites.net";   // Azure Server Link
+export const localhost = "https://classsync-3ht1.onrender.com";             // Render.com Server Link
 export const room_type_options = ["class", "hall", "computerlab", "englishlab", "electroniclab", "mechanicallab", "civillab", "drawinglab", "physicslab", "chemistrylab", "ladieswashroom", "gentswashroom", "office", "staffroom", "other"];
 export const subject_type_options = ["THEORY", "PRACTICAL"];
 // const localhost = "http://localhost:3000";
